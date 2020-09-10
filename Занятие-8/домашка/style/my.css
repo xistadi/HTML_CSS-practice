@@ -1,0 +1,24 @@
+img[title="Картинка"]{
+	width: 100px;
+}
+img[title="Картинка2"]{
+	width: 200px;
+}
+img[title="Картинка3"]{
+	width: 300px;
+}
+a[href="https://www.youtube.com"]{
+	color: red;
+}
+a[href="https://www.twitch.tv"]{
+	color: purple;
+}
+a[href="https://www.aliexpress.ru"]{
+	color: orange;
+}
+a[href="https://vk.com"]{
+	color: blue;
+}
+a[href="https://show-english.com"]{
+	color: grey;
+}

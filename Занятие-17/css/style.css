@@ -1,0 +1,10 @@
+body{
+	padding: 60px;
+	background-image: url(../images/fon.jpg) center center / 100% no-repeat fixed #ff5;
+					  /* url(../images/1.png); /* GIF, JPG, PNG, SVG */
+	/*background-position: right top; /* px % em 
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-origin: border-box;
+	background-size: 500px 500px;*/
+}
